@@ -1,1 +1,2 @@
 # LightBot-and-Robomind
+What I learned in both of the games was programing and coding it wasent only fun but i got to learned a lot of stuff like the function and what to make it do for exaple in Robomind you would aslo create or make the robot paint on the floor and in lightBot we had to take him to a certin spot, so when we start bulding and programing our robots we will have to be making it do stuff.
